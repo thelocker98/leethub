@@ -11,4 +11,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0704-binary-search](https://github.com/thelocker98/leethub/tree/master/0704-binary-search) |
+## Linked List
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/thelocker98/leethub/tree/master/0021-merge-two-sorted-lists) |
+## Recursion
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/thelocker98/leethub/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
