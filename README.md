@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/thelocker98/leethub/tree/master/0021-merge-two-sorted-lists) |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/thelocker98/leethub/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/thelocker98/leethub/tree/master/0141-linked-list-cycle) |
 | [0203-remove-linked-list-elements](https://github.com/thelocker98/leethub/tree/master/0203-remove-linked-list-elements) |
 ## Recursion
